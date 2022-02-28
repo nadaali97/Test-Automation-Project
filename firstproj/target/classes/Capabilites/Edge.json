@@ -1,7 +1,0 @@
-{
-  "args" : [ "start-maximized", "allow-outdated-plugins"],
-  "desiredCapabilities" : {
- 
-    
-  }
-}
